@@ -7,6 +7,7 @@ function App() {
     const [eventData, setEventData] = useState([])
     const [loading, setLoading] = useState(false)
 
+
     useEffect(() => {
         const fetchEvents = async () => {
             setLoading(true)
