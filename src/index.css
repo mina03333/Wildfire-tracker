@@ -6,7 +6,8 @@ body {
 
 .header {
   padding: 10px;
-  background-color: firebrick;
+  /* background-color: firebrick; */
+  background-color:rgb(206, 19, 19);
   color: #fff;
   position: fixed;
   top: 0;
@@ -51,7 +52,7 @@ body {
 
 .location-info {
   position: absolute;
-  top: 80px;
+  top: 110px;
   right: 50px;
   width:250px;
   min-height:125px;
